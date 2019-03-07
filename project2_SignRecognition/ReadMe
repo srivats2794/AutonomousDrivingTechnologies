@@ -1,0 +1,4 @@
+The second project was a further extension of the first project where in an implementation of traffic sign recognition was required. 
+The algorithm used here was the Viola-Jones algorithm (cascade object detector). The vehicle had to detect STOP sign and SCHOOL sign.
+The vehicle has to slow down to a set speed from its current speed when it detects a SCHOOL sign and it has to stay so until it detects
+a STOP sign at which point it has to stop for 5 seconds and then continue on.
