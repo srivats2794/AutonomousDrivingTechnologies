@@ -1,0 +1,4 @@
+The lane keep project involved implementing a pure pursuit controller on a 1/10th scale vehicle that goes around a track.
+This vehicle had a camera mounted on it (camera calibration was done by me) and it had to navigate through the track by detecting
+the lanes. Further the lane prediction based on computer vision was updated using Kalman filter. 
+The project was implemented using Matlab on a host computer and arduino as a micro controller.
